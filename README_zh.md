@@ -6,7 +6,7 @@
 
 ## 效果展示
 
-![demo.gif](https://github.com/zhangchaojiong/MutlColorLoadingView/blob/master/image/2788235-f057d49c96baa63d.gif)   
+![demo.gif](https://github.com/zhangchaojiong/MutlColorLoadingView/blob/master/image/demo.gif)
 
 ## 如何使用：
 * 加入 gradle 依赖

@@ -6,7 +6,7 @@
 
 ## Design sketch
 
-![demo.gif](https://github.com/zhangchaojiong/MutlColorLoadingView/blob/master/image/2788235-f057d49c96baa63d.gif)   
+![demo.gif](https://github.com/zhangchaojiong/MutlColorLoadingView/blob/master/image/demo.gif)
 
 ## Usage：
 * Setting up the dependency
