@@ -4,13 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/color_99131934"
     tools:context=".MainActivity">
 
     <com.mutlcolorloadingview.MutlColorLoadingView
         android:id="@+id/mclv"
-        android:layout_width="58dp"
-        android:layout_height="58dp"
+        android:layout_width="120dp"
+        android:layout_height="105dp"
+        android:padding="20dp"
+        android:background="@drawable/bg_loading"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
