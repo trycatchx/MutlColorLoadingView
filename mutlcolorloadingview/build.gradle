@@ -1,0 +1,24 @@
+apply plugin: 'com.android.library'
+
+def libraryVersion = '1.0.0'
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 1
+        versionName libraryVersion
+
+
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+}
+
+
+
+apply from: 'jcenter.gradle'
