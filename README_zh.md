@@ -37,19 +37,19 @@ implementation 'com.mutlcolorloadingview:mutlcolorloadingview:1.0.0'
 LightProgressView 自定义参数：
 ```
     <declare-styleable name="MutlColorLoadingView">
-        <!--The color of the first progress-->
+        <!--第一种进度条的颜色-->
         <attr name="mclv_first_color" format="color" />
-        <!--The color of the second progress-->
+        <!--第二种进度条的颜色-->
         <attr name="mclv_second_color" format="color" />
-        <!--The color of the three progress-->
+        <!--第三种进度条的颜色-->
         <attr name="mclv_three_color" format="color" />
-        <!--A round of time-->
+        <!--一次完整动画时长-->
         <attr name="mclv_duration" format="integer" />
-        <!--Angle of progress-->
+        <!--开启动画的角度-->
         <attr name="mclv_start_angle" format="integer" />
-        <!--The thickness of the progress bar-->
+        <!--进度条的宽度-->
         <attr name="mclv_stroke_width" format="integer|dimension"/>
-        <!--The ratio of the first color progress to the total progress-->
+        <!--第一圈，白色进度占总进度的时长比例-->
         <attr name="mclv_rate_first_round" format="float" />
     </declare-styleable>
 ```

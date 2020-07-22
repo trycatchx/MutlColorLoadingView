@@ -12,8 +12,8 @@ ext {
     libraryVersion = '1.0.0'
     libraryDescription = 'mutlcolorloadingview'
 
-    siteUrl = 'https://github.com/zhangchaojiong/MIBC'
-    gitUrl = 'https://github.com/zhangchaojiong/MIBC.git'
+    siteUrl = 'https://github.com/zhangchaojiong/MutlColorLoadingView'
+    gitUrl = 'https://github.com/zhangchaojiong/MutlColorLoadingView.git'
 
     developerId = 'jiong103'
     developerName = 'zhangchaojiong'
